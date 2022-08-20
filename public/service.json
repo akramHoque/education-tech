@@ -1,0 +1,44 @@
+[
+  {
+      "id": 1,
+      "name": "Javascript Advanced",
+      "price": "300",
+      "description": "A programming language is any set of rules that converts strings, or graphical program elements in the case of visual programming languages, to various kinds of machine code output. Programming languages are one kind of computer language, and are used in computer programming to implement algorithms.",
+      "img": "https://i.ibb.co/Df3QxB4/Unofficial-Java-Script-logo-2-svg-1.png"
+  },
+  {
+      "id": 2,
+      "name": "Python Crash Course",
+      "price": "350",
+      "description": "A programming language is any set of rules that converts strings, or graphical program elements in the case of visual programming languages, to various kinds of machine code output. ",
+      "img": "https://i.ibb.co/kGyng33/Python-logo-notext-svg.png"
+  },
+  {
+      "id": 3,
+      "name": "Java For Kids",
+      "price": "100",
+      "description": "A programming language is any set of rules that converts strings, or graphical program elements in the case of visual programming languages, to various kinds of machine code output. ",
+      "img": "https://i.ibb.co/d0Rqjzk/java-logo-vert-blk-1.png"
+  },
+  {
+      "id": 4,
+      "name": "Programming Skills Develop Course",
+      "price": "180",
+      "description": "A programming language is any set of rules that converts strings, or graphical program elements in the case of visual programming languages, to various kinds of machine code output.",
+      "img": "https://i.ibb.co/Dkm4z3S/programming-languages-shutterstock-1680857539.png"
+  },
+  {
+      "id": 5,
+      "name": "Cotlin Carsh Course",
+      "price": "100",
+      "description": "A programming language is any set of rules that converts strings, or graphical program elements in the case of visual programming languages, to various kinds of machine code output.",
+      "img": "https://i.ibb.co/1q6pSY3/programming-software-development-isometric-icon-mobile-phone-application-coding-open-laptop-dark-neo.png"
+  },
+  {
+      "id": 6,
+      "name": "C# Programming Zero To Hero",
+      "price": "300",
+      "description": "A programming language is any set of rules that converts strings, or graphical program elements in the case of visual programming languages, to various kinds of machine code output. ",
+      "img": "https://i.ibb.co/rtmF8bG/1200px-C-Sharp-wordmark-svg-1.png"
+  }
+]
